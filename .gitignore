@@ -1,0 +1,12 @@
+# Archivos generados por Visual Studio
+.vs/
+*.vscode/
+*.user
+*.suo
+*.cache
+*.pdb
+*.exe
+
+# Archivos de compilación
+bin/
+obj/
